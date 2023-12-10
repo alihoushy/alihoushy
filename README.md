@@ -1,1 +1,1 @@
-![]([https://github.com/alihoushy/alihoushy-github-cover.gif)
+![](https://github.com/alihoushy/alihoushy/blob/main/alihoushy-github-cover.gif)
